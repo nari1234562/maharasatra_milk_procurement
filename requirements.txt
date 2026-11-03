@@ -1,0 +1,7 @@
+streamlit>=1.30
+pandas>=2.0
+numpy
+scikit-learn
+xgboost
+openpyxl
+altair
